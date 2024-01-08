@@ -3,4 +3,4 @@ SnowShell is a new version of the Linux shell. Based off Bash, it adds even more
 
 # Installation Instructions
 
-1. In your normal terminal, change the directory to SnowShell
+## Linux
