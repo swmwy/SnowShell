@@ -1,6 +1,6 @@
 gcc main.c -o snowshell
 
-echo "Thank you for using SnowShell!"
+echo "Hello from @swmwy"
 echo "
                                        
  _____               _____ _       _ _ 
@@ -9,7 +9,7 @@ echo "
 |_____|_|_|___|_____|_____|_|_|___|_|_|
                                        
 "
-
-
+echo "Snowshell v. 0.0.1 Alpha"
+sleep 5
 
 ./snowshell
