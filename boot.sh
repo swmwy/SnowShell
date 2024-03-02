@@ -1,4 +1,4 @@
-gcc main.c -o snowshell
+g++ main.c -o snowshell
 
 echo "Hello from @swmwy"
 echo "
