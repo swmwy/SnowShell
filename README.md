@@ -4,3 +4,5 @@ SnowShell is a new version of the Linux shell. Based off Bash, it adds even more
 # Installation Instructions
 
 ## Linux
+
+To start, change the boot.sh file permissions.
