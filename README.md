@@ -5,4 +5,6 @@ SnowShell is a new version of the Linux shell. Based off Bash, it adds even more
 
 ## Linux
 
-To start, change the boot.sh file permissions.
+To boot, change the ```boot.sh``` file permissions. Do this by running ```chmod +x boot.sh```. Then you can run ```./boot.sh``` and use SnowShell!
+
+# How to Use SnowShell
